@@ -1,10 +1,10 @@
-dgl @ https://data.dgl.ai/wheels/torch-2.3/cu121/dgl-0.9.1.post1-cp39-cp39-manylinux1_x86_64.whl
+dgl @ https://data.dgl.ai/wheels/torch-2.3/cu121/repo.html
 torch_geometric
-pyg_lib @ https://data.pyg.org/whl/torch-2.3.0+cu121/pyg_lib-0.2.0+cu121-cp39-cp39-linux_x86_64.whl
-torch_scatter @ https://data.pyg.org/whl/torch-2.3.0+cu121/torch_scatter-2.1.1+cu121-cp39-cp39-linux_x86_64.whl
-torch_sparse @ https://data.pyg.org/whl/torch-2.3.0+cu121/torch_sparse-0.6.16+cu121-cp39-cp39-linux_x86_64.whl
-torch_cluster @ https://data.pyg.org/whl/torch-2.3.0+cu121/torch_cluster-1.6.1+cu121-cp39-cp39-linux_x86_64.whl
-torch_spline_conv @ https://data.pyg.org/whl/torch-2.3.0+cu121/torch_spline_conv-1.2.2+cu121-cp39-cp39-linux_x86_64.whl
+pyg_lib @ https://data.pyg.org/whl/torch-2.3.0+cu121.html
+torch_scatter @ https://data.pyg.org/whl/torch-2.3.0+cu121.html
+torch_sparse @ https://data.pyg.org/whl/torch-2.3.0+cu121.html
+torch_cluster @ https://data.pyg.org/whl/torch-2.3.0+cu121.html
+torch_spline_conv @ https://data.pyg.org/whl/torch-2.3.0+cu121.html
 flake8==3.3.0
 pep8-naming==0.4.1
 pytest==3.2.1
