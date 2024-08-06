@@ -19,6 +19,5 @@ idna==2.10
 torchdiffeq==0.2.4
 einops
 PyWavelets
-torch_geometric
 infomap
 
